@@ -14,12 +14,6 @@ Adventour is completely **open-source**, so feel free to explore the codebase, l
 
 ---
 
-## 🖼️ Screenshot
-
-![Adventour Desktop Demo](./Adventour.png "Desktop Demo")
-
----
-
 ## 🛠 Tools Required
 
 - A simple text editor (e.g., VS Code, Sublime Text)
